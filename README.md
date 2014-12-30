@@ -12,6 +12,7 @@ Express server for Node JS
 This week we dived into the Node fun.
   - understanding the module.exports
   - mocha, casper and chai -> TDD:4EVA
+  - ejs templating
   - express server to test it
   - grunt to make it automated
 
